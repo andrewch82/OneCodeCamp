@@ -1,0 +1,12 @@
+/* external styling */
+.external-styling {
+    color:blue;
+    background-color: beige;
+    font-size: 20px;
+}
+
+.external-styling-v2 {
+    color: red;
+    background-color: yellow;
+    font-size: 28px;
+}
