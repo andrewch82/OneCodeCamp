@@ -1,0 +1,40 @@
+span {
+    background-color: green;
+    color: white;
+    font-size: 18px;
+}
+
+.class-name {
+    color: red;
+    background-color: pink;
+}
+
+#id-name {
+    font-weight: bold;
+}
+
+* {
+    font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+}
+
+a[href="https://www.google.com"]
+{
+    text-decoration: none;
+}
+
+h1, h2, .parag {
+    color: orange;
+}
+
+.ancestor p {
+    font-style: italic;
+    color: green;
+}
+
+a.link:hover {
+    color: red;
+}
+
+p::first-letter {
+    font-size: 150%;
+}
