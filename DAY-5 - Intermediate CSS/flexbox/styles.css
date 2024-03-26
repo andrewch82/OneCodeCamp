@@ -1,0 +1,49 @@
+.flexContainer {
+    display: flex;
+    flex-direction: row-reverse;
+    /* justify-content: center; */
+    /* justify-content: space-evenly; */
+    /* justify-content: space-between; */
+}
+
+/* Flex Wrap */
+/* .flexContainer {
+    display: flex; */
+    /* flex-wrap: wrap; }*/
+
+
+/* Flex grow */
+/* .flexContainer {
+    display: flex;
+
+}
+
+.flexItem1 {
+    flex-grow: flex;
+}
+
+.flexItem2 {
+    flex-grow: 0;
+}
+
+.flexItem3 {
+    flex-grow: 1;
+} */
+
+/* Flex shrink */
+.flexContainer {
+    display: flex;
+
+}
+
+.flexItem1 {
+    flex-shrink: flex;
+}
+
+.flexItem2 {
+    flex-shrink: 2;
+}
+
+.flexItem3 {
+    flex-shrink: 1;
+}
