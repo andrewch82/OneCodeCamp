@@ -77,3 +77,8 @@ console.log(fruits)
 for (let i = 0; i < fruits.length; i++) {
     console.log(fruits[i]);
 }
+
+// Looping through the elements in reverse order
+//for (let i = 1; i <= fruits.length; i++) {
+    //console.log(fruits[fruits.length-i]);
+//}
